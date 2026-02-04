@@ -69,7 +69,7 @@ class MultiRegionActivator:
                 'get_login_data_url': 'https://clientbp.ggblueshark.com/GetLoginData',
                 'client_host': 'clientbp.ggblueshark.com'
             },
-            'LK': {
+            'SG': {
                 'guest_url': 'https://ffmconnect.live.gop.garenanow.com/oauth/guest/token/grant',
                 'major_login_url': 'https://loginbp.ggblueshark.com/MajorLogin',
                 'get_login_data_url': 'https://clientbp.ggblueshark.com/GetLoginData',
